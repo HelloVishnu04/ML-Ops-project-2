@@ -28,8 +28,8 @@ list_of_files = [
     "Dockerfile",
     "requirements.txt",
     "setup.py",
-    "research/trials.ipynb"
-    "templates/index.html"
+    "research/trials.ipynb",
+    "test.py"
 ]
 
 for filepath in list_of_files:
